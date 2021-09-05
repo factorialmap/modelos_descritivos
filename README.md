@@ -11,9 +11,12 @@
 - Exemplo de uso são nas estapas de análise de fenomenos no método PDCA, em cenários que a percepção de incertezas ficam mais evidentes, situações onde não há históricos etc.
 - Eles ajudam a conduzir as pesquisas para um patamar mais profundo e evitar que ações paliativas seja tomadas. Gráficos de tendência usando loess por exemplo
 
-### Foco: 
-- Aprender fazendo
+### Exemplo: 
+- Com base nos dados de venda, produto e clientes como eu poderia agrupar por gostos similares a fim de oferecer melhores produtos, promoções e preços para os consumidores?
+- Com base na tendência de vendas de produtos de praia como eu posso programar os estoques para o período de temporada?
 
 ### Exemplos práticos ou de uso comercial
-  1. Tendências
+  1. Sistema de recomendações
+  2. Promoções
+  3. Planejamento de políticas públicas
   
